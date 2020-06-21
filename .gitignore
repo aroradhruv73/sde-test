@@ -1,0 +1,12 @@
+# Coverage directory used by tools like istanbul
+coverage
+
+# Apidoc directory
+doc
+
+# Mocha test results directory
+results
+
+node_modules
+
+dist
